@@ -7,7 +7,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('Stage2') {
       steps {
         sh 'mkdir F1'
       }
